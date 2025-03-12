@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+div{
+	display:flex;
+	justify-content:flex-start;
+	align-items:center;
+	
+}
+
+img{
+	height:300px;
+	width:450px;
+	object-fit: cover;
+}
+
+#btn{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+	margin:15px;
+}
